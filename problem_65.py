@@ -5,7 +5,7 @@ def has_duplicates(lst):
     seen = []
     for item in lst:
         if item in seen:
-            return True
+            return True 
         seen.append(item)
     return False
 
