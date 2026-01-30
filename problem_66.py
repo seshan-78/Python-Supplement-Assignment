@@ -1,6 +1,6 @@
 # Problem 66: Find intersection of two lists
 # Find and fix the error
-
+ 
 def intersection(list1, list2):
     result = []
     for item in list1:
