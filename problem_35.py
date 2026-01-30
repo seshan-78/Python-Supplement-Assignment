@@ -3,7 +3,7 @@
 
 def calculate_percentage(obtained, total):
     percentage = (obtained / total) * 100
-    return percentage
+    return percentage 
 
 marks = 45
 total_marks = 50
