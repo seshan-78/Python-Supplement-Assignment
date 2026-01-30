@@ -4,5 +4,5 @@
 words = ["Hello", "World", "Python"]
 sentence = ""
 for word in words:
-    sentence += word + " "
+    sentence += word + " " 
 print(f"Sentence: {sentence}")
