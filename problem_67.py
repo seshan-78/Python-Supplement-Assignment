@@ -1,5 +1,5 @@
 # Problem 67: Remove nth element from list
-# Find and fix the error
+# Find and fix the error 
 
 def remove_nth(lst, n):
     if n >= 0 and n < len(lst):
