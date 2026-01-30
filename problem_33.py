@@ -3,7 +3,7 @@
 
 def is_all_digits(text):
     for char in text:
-        if not char.isdigit():
+        if not char.isdigit(): 
             return False
     return True
 
