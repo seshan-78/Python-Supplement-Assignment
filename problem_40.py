@@ -1,5 +1,5 @@
 # Problem 40: Count consonants in a string
-# Find and fix the error
+# Find and fix the error 
 
 def count_consonants(text):
     vowels = "aeiouAEIOU"
